@@ -1,4 +1,4 @@
-# Pooled_Heterozygosity
+ Pooled_Heterozygosity
 # ISU - Animal Breeding and Genetics Group
 # Author: Josue Chinchilla-Vargas
 # Created (date): 11/3/2020
