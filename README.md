@@ -1,10 +1,10 @@
  # Pooled_Heterozygosity
-**ISU - Animal Breeding and Genetics Group
-**Author: Josue Chinchilla-Vargas
-**Created (date): 11/3/2020
-**Version (of the script): 1.0
-**Program (if applicable): Plink
-**Program Version (if applicable): 1.9
+ISU - Animal Breeding and Genetics Group
+Author: Josue Chinchilla-Vargas
+Created (date): 11/3/2020
+Version (of the script): 1.0
+Program (if applicable): Plink
+Program Version (if applicable): 1.9
 #==============================================================================#
 **Description
 #==============================================================================#
