@@ -156,7 +156,7 @@ awk '{$6 = 2 * ($4 + $5)}1' noheader.jo| awk '{$7 = ($4 + $5) ** 2}1' > almostHp
 #calculate Hp for each window.
 awk '{$8 = $6 / $7}1' almostHp.jo > Hp_noheader.jo
 
-cat Hp_noheader_05mb.jo Hp_noheader.jo | sort -n -k2 > Hp_catted_noheader.jo
+cat Hp_noheader_05mb.jo Hp_noheader.jo | sort -n -k1 > Hp_catted_noheader.jo
 
 #add header and paste everything together.
 echo "CHR POS CHR_POS COUNT_MIN COUNT_MAJ NUM NUM Hp" > Hp_header_05mb.jo 
